@@ -1,0 +1,3 @@
+Uname=Nikita
+PWD=Nikita@706
+Email=nikitapatra706@gmail.com
