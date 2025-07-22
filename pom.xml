@@ -15,7 +15,7 @@
   
     </dependency>
   </dependencies>
-  <distribution Management>
+  <distributionManagement>
 <repository>
 <id>nexus</id>
 <name>Ashok IT Releases Nexus Repo</name>
@@ -25,7 +25,7 @@
 <name>Ashok IT Snapshots Nexus Repo</name>
 <url>http://13.232.3.254:8081/repository/snapshot-Repository/</url>
 </snapshotRepository>
-</distribution Management>
+</distributionManagement>
   <build>
     <finalName>01-maven-web-app</finalName>
     <plugins>
