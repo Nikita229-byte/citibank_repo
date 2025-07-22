@@ -15,7 +15,7 @@
   
     </dependency>
   </dependencies>
-  distribution Management>
+  <distribution Management>
 <repository>
 <id>nexus</id>
 <name>Ashok IT Releases Nexus Repo</name>
