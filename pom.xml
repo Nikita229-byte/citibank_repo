@@ -22,7 +22,7 @@
   </repository>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://13.232.3.254:8081/repository/snapshot-Repository</url>
+    <url>http://13.232.3.254:8081/repository/snapshot-Repository/</url>
   </snapshotRepository>
 </distributionManagement>
   <build>
